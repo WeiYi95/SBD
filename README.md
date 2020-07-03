@@ -49,3 +49,4 @@ python BERT_SEG.py  --training_examples=1 --eval_examples=1 --pred_examples=1 --
 ```
 俞敬松,魏一,张永伟.基于BERT的古文断句研究与应用[J].中文信息学报,2019,33(11):50-56.
 ```
+http://jcip.cipsc.org.cn/CN/abstract/abstract2861.shtml
