@@ -11,6 +11,7 @@ tensorflow-gpu == 1.13.1
 ```
 终必成道。故圣经云：中也者。天下之大本也。和也者，天下之达道也。致中和天地位焉，
 ```
+
 转换后：
 ```
 终必成道故圣经云中也者天下之大本也和也者天下之达道也致中和天地位焉|[B_.] [I_.] [I_.] [I_.] [B_:] [I_:] [I_:] [I_:] [B_,] [I_,] [I_,] [B_.] [I_.] [I_.] [I_.] [I_.] [I_.] [B_,] [I_,] [I_,] [B_.] [I_.] [I_.] [I_.] [I_.] [I_.] [B_,] [I_,] [I_,] [B_,] [I_,] [I_,] [I_,]
@@ -44,5 +45,7 @@ python BERT_SEG.py  --training_examples=1 --eval_examples=1 --pred_examples=1 --
 ```
 		
 # 参考
-模型实现请参考（If you make use of this software for research purposes, we'll appreciate citing the following）：：
+模型实现请参考（If you make use of this software for research purposes, we'll appreciate citing the following）：
+```
 俞敬松,魏一,张永伟.基于BERT的古文断句研究与应用[J].中文信息学报,2019,33(11):50-56.
+```
