@@ -1,3 +1,6 @@
+# -*- coding:utf-8 -*-
+# @Author: Wei Yi
+
 import random
 import os
 
